@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "764817764414",
+    "firebase_url": "https://messageme-3311b.firebaseio.com",
+    "project_id": "messageme-3311b",
+    "storage_bucket": "messageme-3311b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764817764414:android:ad41f80e1612d0eacd216f",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764817764414-e8r3ck042gu09etjrbfksn82jm376t9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFAI_PEPmvnTDoUYB3z9oQQf2po2Iqh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764817764414-e8r3ck042gu09etjrbfksn82jm376t9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764817764414:android:941d96dbf7c9bb53cd216f",
+        "android_client_info": {
+          "package_name": "com.example.messageme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764817764414-e8r3ck042gu09etjrbfksn82jm376t9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFAI_PEPmvnTDoUYB3z9oQQf2po2Iqh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764817764414-e8r3ck042gu09etjrbfksn82jm376t9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
